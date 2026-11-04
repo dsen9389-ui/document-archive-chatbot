@@ -1,2 +1,1 @@
-# document-archive-chatbot
-Document Archive Chatbot — Manage and query your personal file archive directly inside Telegram.
+Document Archive Chatbot\n\nA production ready Telegram bot to upload, store, and query personal files.\n\nFeatures:\n- Upload documents directly inside Telegram\n- Search metadata and extract text\n- SQLite storage for user archives\n\nLocal Setup:\n1. Clone repository\n2. Install dependencies: pip install -r requirements.txt\n3. Copy .env.example to .env and set BOT_TOKEN\n4. Run python main.py\n\nDeployment:\nDeploy easily on Render or Koyeb using the Python environment.
